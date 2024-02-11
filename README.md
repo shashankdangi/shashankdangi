@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hey, I'm Shashank  👋🏽  
 
-<!--
-**shashankdangi/shashankdangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 22-year-old developer based in New Delhi, India, passionate about crafting digital experiences. 
 
-Here are some ideas to get you started:
+- Check out my [website](https://shashankdangi.github.io/) to learn more about me.
+ 
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `JavaScript` `TypeScript` `Tailwind` `Chakra-UI` `BootStrap`
+
+**Designing** : `Figma` 
+
+**No-Code** : `Framer` `webflow`
+ 
+**Version Control:** `Git` `Github` 
+ 
+## ✨ Fun Facts 
+
+- Jujutsu Kaisen is my favorite anime.
+- As a kid, I wanted to be a Robotic Engineer.
+- I am also learning Japanese although currently I'm N4 Certified 
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shashank-dangi/). or mail me at [Outlook](sss12212001@outlook.com) 
+ 
