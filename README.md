@@ -1,6 +1,6 @@
 ### Hey, I'm Shashank  👋🏽  
 
-I'm a 22-year-old developer based in New Delhi, India, passionate about crafting digital experiences. 
+I'm a 21-year-old developer based in Osaka , Japan , passionate about crafting digital experiences. 
 
 - Check out my [website](https://shashankdangi.github.io/) to learn more about me.
  
