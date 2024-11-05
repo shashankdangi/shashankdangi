@@ -18,7 +18,7 @@ I'm a 21-year-old developer based in Osaka , Japan , passionate about crafting d
 
 - Jujutsu Kaisen is my favorite anime.
 - As a kid, I wanted to be a Robotic Engineer.
-- I am also learning Japanese although currently I'm N4 Certified 
+- I am also learning Japanese although currently I'm N3 Certified 
 
 ## 📫 Contact
 
