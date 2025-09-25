@@ -1,6 +1,6 @@
 ### Hey, I'm Shashank  👋🏽  
 
-I'm a 21-year-old developer based in Osaka , Japan , passionate about crafting digital experiences. 
+I'm a 22-year-old developer based in Osaka , Japan , passionate about crafting digital experiences. 
 
 - Check out my [website](https://shashankdangi.github.io/) to learn more about me.
  
@@ -18,7 +18,7 @@ I'm a 21-year-old developer based in Osaka , Japan , passionate about crafting d
 
 - Jujutsu Kaisen is my favorite anime.
 - As a kid, I wanted to be a Robotic Engineer.
-- I am also learning Japanese although currently I'm N3 Certified 
+- I am also learning Japanese although currently I'm N2 Certified 
 
 ## 📫 Contact
 
