@@ -28,3 +28,6 @@ I'm a 22-year-old developer based in Osaka , Japan , passionate about crafting d
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/shashank-dangi/). or mail me at [Outlook](sss12212001@outlook.com) 
  
+
+***
+[![An image of @shashankdangi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shashankdangi)](https://holopin.io/@shashankdangi)
