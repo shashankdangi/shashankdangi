@@ -7,8 +7,11 @@ I'm a 22-year-old developer based in Osaka , Japan , passionate about crafting d
 ## 📦 Toolbox
 
 **Frontend Development:** `React` `JavaScript` `TypeScript` `Tailwind` `Chakra-UI` `BootStrap` `Next.js`
+
 **Libraries** `ShadCn` `Better-Auth` 
-**Database** `MySQL`
+
+**Database** `MySQL` `Postgres`
+
 **Designing** : `Figma` 
 
 **No-Code** : `Framer` `webflow`
